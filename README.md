@@ -17,7 +17,7 @@ cd server
 npm install
 npm start
 ```
-the server will start listening at port 5000
+server will start and listen on port 5000
 
 #### Start the client
 ```
