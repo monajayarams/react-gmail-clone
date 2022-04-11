@@ -1,13 +1,15 @@
-# react-gmail-clone
+### react-gmail-clone
 
-## Tech Stack ##
+ _A quick gmail clone application using react and hooks._
+
+### Tech Stack ##
 - React
 - StyledComponents
 - Material-UI(for icons)
 - Node
 - Express
 
-## Usage ##
+### Usage ##
 
 To run in local, 
 
